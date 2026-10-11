@@ -1,0 +1,5 @@
+epoch 1 (0.3 min)
+epoch 10 (1.2 min)
+epoch 20 (2.4 min)
+epoch 30 (4.0 min)
+fold 0: transformer MCC 0.4149 (4.0 min)

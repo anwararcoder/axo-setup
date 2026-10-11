@@ -1,0 +1,5 @@
+epoch 1: loss 0.5698 (0.2 min)
+epoch 10: loss 0.4674 (0.4 min)
+epoch 20: loss 0.4561 (1.1 min)
+epoch 30: loss 0.4600 (2.2 min)
+fold 3: network MCC 0.5884 (2.2 min)

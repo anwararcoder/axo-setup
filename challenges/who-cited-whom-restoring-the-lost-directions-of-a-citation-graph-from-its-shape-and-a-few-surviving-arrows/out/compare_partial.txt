@@ -1,0 +1,22 @@
+nbf2: missing files, skipped
+member     per fold                          pooled
+gnn3     0.4375 0.5584 0.4472 0.5849   0.5241
+aug      0.4355 0.5580 0.4464 0.5930   0.5264
+aug2     0.4399 0.5608 0.4506 0.5946   0.5294
+nbf      0.4400 0.5547 0.4451 0.5894   0.5251
+nbfr2    0.4361 0.5552 0.4449 0.5900   0.5246
+gt       0.4149 0.5330 0.4151 0.5646   0.5002
+
+NESTED blend (current): weights per fold [{'gnn3': np.float64(0.0), 'nbf': np.float64(0.3), 'gt': np.float64(0.0), 'aug': np.float64(0.7)}, {'gnn3': np.float64(0.3), 'nbf': np.float64(0.2), 'gt': np.float64(0.1), 'aug': np.float64(0.4)}, {'gnn3': np.float64(0.0), 'nbf': np.float64(0.3), 'gt': np.float64(0.0), 'aug': np.float64(0.7)}, {'gnn3': np.float64(0.2), 'nbf': np.float64(0.2), 'gt': np.float64(0.1), 'aug': np.float64(0.5)}]
+
+NESTED nbf -> nbfr2: weights per fold [{'gnn3': np.float64(0.2), 'nbfr2': np.float64(0.2), 'gt': np.float64(0.1), 'aug': np.float64(0.5)}, {'gnn3': np.float64(0.2), 'nbfr2': np.float64(0.2), 'gt': np.float64(0.1), 'aug': np.float64(0.5)}, {'gnn3': np.float64(0.2), 'nbfr2': np.float64(0.2), 'gt': np.float64(0.1), 'aug': np.float64(0.5)}, {'gnn3': np.float64(0.4), 'nbfr2': np.float64(0.0), 'gt': np.float64(0.2), 'aug': np.float64(0.4)}]
+
+candidate          per fold                          pooled
+v2                 0.4375 0.5584 0.4472 0.5849   0.5241
+blend (current)    0.4404 0.5604 0.4488 0.5934   0.5286
+nbf -> nbfr2       0.4434 0.5611 0.4508 0.5917   0.5292
+
+paired bootstrap over graphs (500 draws): difference, sd, share of draws <= 0
+blend (current)    vs v2               +0.0048  sd 0.0017  P<=0 0.002  agree 0.9678
+nbf -> nbfr2       vs v2               +0.0053  sd 0.0016  P<=0 0.000  agree 0.9708
+nbf -> nbfr2       vs blend (current)  +0.0006  sd 0.0010  P<=0 0.284  agree 0.9850

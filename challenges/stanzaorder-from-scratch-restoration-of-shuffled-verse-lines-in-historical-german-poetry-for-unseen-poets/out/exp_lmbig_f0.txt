@@ -1,0 +1,25 @@
+[W1012 00:36:53.622086646 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 71303168 bytes (free: 19070976, total: 3953655808).
+[W1012 00:36:53.307349086 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 85983232 bytes (free: 14876672, total: 3953655808).
+[W1012 00:36:56.426811466 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 85983232 bytes (free: 23265280, total: 3953655808).
+[W1012 00:37:04.734139040 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 92274688 bytes (free: 37945344, total: 3953655808).
+epoch 1: train loss 2.413 (81s)
+epoch 2: train loss 1.665 (155s)
+epoch 3: train loss 1.539 (231s)
+epoch 4: train loss 1.471 (307s)
+epoch 5: train loss 1.424 (382s)
+epoch 6: train loss 1.384 (457s)
+epoch 7: train loss 1.349 (533s)
+epoch 8: train loss 1.315 (609s)
+epoch 9: train loss 1.285 (684s)
+epoch 10: train loss 1.260 (760s)
+epoch 11: train loss 1.240 (835s)
+epoch 12: train loss 1.231 (910s)
+[W1012 00:52:04.278057836 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 150994944 bytes (free: 7667712, total: 3953655808).
+scored 74168 windows (942s)
+RESULT lmbig fold 0 lambda 0.0: mean 0.4205, test-size weighted 0.3886
+RESULT lmbig fold 0 lambda 0.1: mean 0.4359, test-size weighted 0.4067
+RESULT lmbig fold 0 lambda 0.2: mean 0.4500, test-size weighted 0.4151
+RESULT lmbig fold 0 lambda 0.3: mean 0.4607, test-size weighted 0.4244
+RESULT lmbig fold 0 lambda 0.5: mean 0.4614, test-size weighted 0.4225
+RESULT lmbig fold 0 lambda 1.0: mean 0.4397, test-size weighted 0.3947
+RESULT lmbig fold 0 lambda LM only: mean 0.3638, test-size weighted 0.3188

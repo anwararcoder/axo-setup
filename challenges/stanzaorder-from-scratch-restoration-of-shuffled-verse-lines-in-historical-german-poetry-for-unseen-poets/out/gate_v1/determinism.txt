@@ -1,0 +1,4 @@
+run_a: exit 0, 0.3 min, log out/gate_v1/run_a.log
+run_b: exit 0, 0.3 min, log out/gate_v1/run_b.log
+IDENTICAL
+both runs: 0.6 min

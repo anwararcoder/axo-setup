@@ -1,0 +1,6 @@
+epoch 1 (0.3 min)
+epoch 5 (1.2 min)
+epoch 10 (2.4 min)
+epoch 15 (3.5 min)
+epoch 20 (4.6 min)
+fold 1: pair-conditioned MCC 0.5547 (4.6 min)
