@@ -3,11 +3,11 @@
 🚨 7/10 solvers beat AI (closing soon!)
 📊 AI Baseline: 0.3371
 🏆 Top Score (beating AI): 0.5159
-📥 Submissions: 14
+📥 Submissions: 15
 🎫 Submission Credits: 5/6
-⏰ Closing in: 11h 16m
+⏰ Closing in: 11h 6m
 
-Public leaderboard (top 12):
+Public leaderboard (top 12+):
   # SCORE   BEAT   PRIZE
 ------------------------
   1 0.5159  OK      $120
