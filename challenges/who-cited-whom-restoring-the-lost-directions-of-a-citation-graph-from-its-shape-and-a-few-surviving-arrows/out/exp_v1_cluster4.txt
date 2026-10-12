@@ -1,7 +1,0 @@
-config changes {} | options {'tag': 'v1_cluster4', 'run_folds': 4}
-graphs per fold [176, 181, 189, 183]
-fold 0: 176 graphs, 16802 links, MCC 0.4077 (acc 0.7038), fitted-rows MCC 0.5437, per-graph MCC sd 0.166 (42s)
-fold 1: 181 graphs, 17891 links, MCC 0.5333 (acc 0.7666), fitted-rows MCC 0.5295, per-graph MCC sd 0.222 (43s)
-fold 2: 189 graphs, 11168 links, MCC 0.4294 (acc 0.7147), fitted-rows MCC 0.5401, per-graph MCC sd 0.227 (44s)
-fold 3: 183 graphs, 27763 links, MCC 0.5626 (acc 0.7813), fitted-rows MCC 0.5133, per-graph MCC sd 0.143 (42s)
-RESULT v1_cluster4: folds [0.4077, 0.5333, 0.4294, 0.5626] mean 0.4833 pooled 0.4999 (2.8 min)

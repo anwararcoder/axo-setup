@@ -1,7 +1,0 @@
-epoch 1 (0.3 min)
-epoch 5 (1.0 min)
-epoch 10 (1.9 min)
-epoch 15 (2.8 min)
-epoch 20 (3.7 min)
-fold 3: pair-conditioned MCC 0.5900 (3.7 min)
-peak 1942068 KB

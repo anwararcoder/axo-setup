@@ -1,7 +1,0 @@
-config changes {} | options {'tag': 'v1_random4', 'run_folds': 4, 'n_groups': 0}
-graphs per fold [183, 182, 182, 182]
-fold 0: 183 graphs, 19152 links, MCC 0.5164 (acc 0.7582), fitted-rows MCC 0.5558, per-graph MCC sd 0.203 (43s)
-fold 1: 182 graphs, 19034 links, MCC 0.5124 (acc 0.7562), fitted-rows MCC 0.5492, per-graph MCC sd 0.189 (43s)
-fold 2: 182 graphs, 17617 links, MCC 0.4608 (acc 0.7304), fitted-rows MCC 0.5401, per-graph MCC sd 0.221 (43s)
-fold 3: 182 graphs, 17849 links, MCC 0.5091 (acc 0.7544), fitted-rows MCC 0.5440, per-graph MCC sd 0.187 (42s)
-RESULT v1_random4: folds [0.5164, 0.5124, 0.4608, 0.5091] mean 0.4997 pooled 0.5003 (2.8 min)

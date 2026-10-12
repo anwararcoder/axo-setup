@@ -1,6 +1,0 @@
-stage 1: held-out MCC 0.4195 (63 features, 1.2 min)
-         orient by cited-share comparison: MCC 0.4200
-stage 2: held-out MCC 0.4270 (80 features, 1.6 min)
-         orient by cited-share comparison: MCC 0.4260
-stage 3: held-out MCC 0.4313 (80 features, 1.6 min)
-         orient by cited-share comparison: MCC 0.4249
