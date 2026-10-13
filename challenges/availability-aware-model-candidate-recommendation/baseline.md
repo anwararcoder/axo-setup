@@ -1,0 +1,5 @@
+Domain    Recommendation
+Level     Medium
+Compute   A10G
+Tags      -
+Baseline  0.7844
